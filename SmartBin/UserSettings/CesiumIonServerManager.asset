@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1d4ad8db4f0fc4793f9e010e57f1d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _userAccessTokenMap:
+  - server: {fileID: 11400000, guid: 3f826a5f06844f941826c0523b1e711c, type: 2}
+    token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxNWU3ZDA2MS1iNWVlLTRiNTgtOWQxNy05YjdmZTUwOGY1ZWQiLCJpZCI6MjE5NTcyLCJpYXQiOjE3MTk5MTUxNzZ9.gMg9krVMJYr9Q5rgLY0TMwgskM7LEMJ8U9gpy3OzDNs
+  _currentCesiumIonServer: {fileID: 11400000, guid: 3f826a5f06844f941826c0523b1e711c,
+    type: 2}
